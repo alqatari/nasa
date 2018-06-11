@@ -55,7 +55,7 @@
     "release:major": "versionist --major"
   },
   "devDependencies": {
-    "@hobochild/versionist-plugins": "1.3.0",
+    "@danielmahon/versionist-plugins": "1.3.0",
     "prettier": "1.11.1",
     "stylelint": "9.2.0",
     "stylelint-config-standard": "18.2.0",

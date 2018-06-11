@@ -1,4 +1,4 @@
-const plugins = require('@hobochild/versionist-plugins');
+const plugins = require('@danielmahon/versionist-plugins');
 
 module.exports = {
   updateVersion: ['npm', plugins.git.commit, plugins.git.tag, plugins.git.push],
